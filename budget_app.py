@@ -77,3 +77,4 @@ def create_spend_chart(categories):
             chart += "\n"
 
     return chart
+
